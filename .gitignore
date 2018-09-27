@@ -1,3 +1,7 @@
+# added by melt
+build/*
+run/*
+
 # Prerequisites
 *.d
 
